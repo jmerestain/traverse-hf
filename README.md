@@ -1,6 +1,12 @@
 # Taraverse
 
-Promoting Philippine ecotourism through gamification and rewards.       
+Promoting Philippine ecotourism through gamification and rewards.     
+
+# Technologies
+
+1. Flutter
+
+2. MapBox
 
 ## Installation Steps
 
